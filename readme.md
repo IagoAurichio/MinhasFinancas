@@ -1,0 +1,1 @@
+Projeto desenvolvido para gerenciar minhas finanças utilizando as tecnologias HTML, CSS e Javascript, utilizei a biblioteca json-server para simular um back-end. Para rodar o projeto basta abrir o arquivo 'financas.html' no navegador e digitar o seguinte comando no terminal do vscode 'npm run json-server' para colocar o back-end em funcionamento.
